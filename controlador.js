@@ -94,7 +94,7 @@ let producto11={
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/descarga%20(1).jfif?alt=media&token=77d40ccf-dec8-4cd2-8d3b-9511a4eb9e29"
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/proyecto%20rampage.jfif?alt=media&token=48e0e5b1-6191-4586-bc09-b6db45befbef"
 }
 
 let producto12={
@@ -103,7 +103,7 @@ let producto12={
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/descarga%20(2).jfif?alt=media&token=2a6d6c98-180b-4f6e-9ab0-84887966ddfa"
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/2.jfif?alt=media&token=82e0646a-6430-43bd-8a75-dfe143f38f66"
 }
 
 let producto13={
@@ -112,7 +112,7 @@ let producto13={
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/descarga.jfif?alt=media&token=8ea5ee6c-0fc6-4092-a5c0-211cabd73f16"
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/la%20ciudad%20perdida.jpg?alt=media&token=53691e26-71f1-4789-8630-c062d1db381f"
 }
 
 let producto14={
@@ -121,7 +121,7 @@ let producto14={
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/images%20(1).jfif?alt=media&token=2aed5da1-9bda-4e1d-87da-e7ce21bb82ff"
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/descarga%20(4).jfif?alt=media&token=07a4bdaf-3890-42c1-a534-b1f58c6a9857"
 }
 
 let producto15={
@@ -130,7 +130,7 @@ let producto15={
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/images%20(2).jfif?alt=media&token=911ae860-be53-470a-9c79-461000a12853"
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/descarga%20(5).jfif?alt=media&token=ba601362-1129-4a8a-9e03-0ed417b73f70"
 }
 
 let producto16={
@@ -157,7 +157,7 @@ let producto18={
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/images.jfif?alt=media&token=165db3d3-f04d-44f4-95d8-37469cdb3bbb"
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/alerta%20roja.jfif?alt=media&token=deaad39b-7db5-49e7-89ae-8041157ac5c5"
 }
 
 let producto19={
@@ -170,284 +170,284 @@ let producto19={
 }
 
 let producto20={
-    nombre:"el hoyo",
+    nombre:"titanic",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/images%20(1).jfif?alt=media&token=55d9ce52-7abc-4ac5-a067-ccc727a6d7ca"
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/titanic.jfif?alt=media&token=1c62c207-3123-4ba6-b0e8-0b80bb51b295"
 }
 
 let producto21={
-    nombre:"",
+    nombre:"quito 2023",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/descarga%20(2).jfif?alt=media&token=c238ff2d-3c50-412e-8c7a-b7020bc6e521"
 }
 
 let producto22={
-    nombre:"",
+    nombre:"los increibles",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/1.jfif?alt=media&token=bc8810ea-e065-4aac-b025-832079684173"
 }
 
 let producto23={
-    nombre:"",
+    nombre:"ghostbusters",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/ghostbusters.jfif?alt=media&token=affcfb4a-3c43-4900-9f49-40871d905f01"
 }
 
 
 
 let producto24={
-    nombre:"",
+    nombre:"venom",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/venom.jfif?alt=media&token=063be5dd-ccc2-4138-ac2f-723f8df420d8"
 }
 
 let producto25={
-    nombre:"",
+    nombre:"heropanti",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/heropanti%202.jfif?alt=media&token=a9f79a75-62f0-4453-901e-5ab326e8fac9"
 }
 
 let producto26={
-    nombre:"",
+    nombre:"elrey leon",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/rey%20leon.jfif?alt=media&token=34038001-aa76-4a2a-be00-b6d560e63cfa"
 }
 
 let producto27={
-    nombre:"",
+    nombre:"the goodfather",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/the%20goodfather.jfif?alt=media&token=13ea98ca-d0a1-44b8-b62d-e74b9c350bfb"
 }
 
 let producto28={
-    nombre:"",
+    nombre:"viuda negra",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/viuda%20negra.jfif?alt=media&token=3cdbe943-16d5-43a6-a88f-121332451af7"
 }
 
 let producto29={
-    nombre:"",
+    nombre:"joker",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/joker.jpeg?alt=media&token=39e33021-fcab-40db-99ce-f617c914283b"
 }
 
 let producto30={
-    nombre:"",
+    nombre:"alien",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/alien.jfif?alt=media&token=9f83988c-db46-4eef-91f5-cb3f8ca53f88"
 }
 
 let producto31={
-    nombre:"",
+    nombre:"ironman",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/ironman.jfif?alt=media&token=ca4fe81c-70ed-4fb9-8655-587597d37dc3"
 }
 
 let producto32={
-    nombre:"",
+    nombre:"jurassic world",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/jurassic%20world.jfif?alt=media&token=3e279c83-66c8-4067-9264-2da46aeceb07"
 }
 
 let producto33={
-    nombre:"",
+    nombre:"it",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/it.jfif?alt=media&token=e9619773-ad37-406f-8979-31830bc8d838"
 }
 
 let producto34={
-    nombre:"",
+    nombre:"baby drive",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/baby%20drive.jfif?alt=media&token=f5c00cdf-148b-4f41-9163-a278553ac78f"
 }
 
 let producto35={
-    nombre:"",
+    nombre:"matrix",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/matrix.jfif?alt=media&token=66e37a39-b202-43a9-9d88-05abadc88a97"
 }
 
 let producto36={
-    nombre:"",
+    nombre:"thor",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/thor.jfif?alt=media&token=ad4d404d-c820-4e9c-af2d-f7e90af45d5f"
 }
 
 let producto37={
-    nombre:"",
+    nombre:"nemo",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/nemo.jfif?alt=media&token=682d3b70-822f-480b-9933-bfee9215ba68"
 }
 
 let producto38={
-    nombre:"",
+    nombre:"red",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/red.jfif?alt=media&token=43600603-76d3-4c30-80ba-99999cbae7b0"
 }
 
 let producto39={
-    nombre:"",
+    nombre:"matilda",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/matilda.jfif?alt=media&token=c8e3ecc9-254e-415e-b9ac-644bc58c7aca"
 }
 
 let producto40={
-    nombre:"",
+    nombre:"luca",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/luca.jfif?alt=media&token=c68d0873-ba58-42d3-93a3-bb05cf75abb8"
 }
 
 let producto41={
-    nombre:"",
+    nombre:"star wars",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/star%20wars.jfif?alt=media&token=d7472ce1-7f24-432d-943b-010281dca21f"
 }
 
 let producto42={
-    nombre:"",
+    nombre:"toy story 4",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/toy%20story%204.jfif?alt=media&token=ada1fb79-101b-4b37-b222-6060ac8cb321"
 }
 
 let producto43={
-    nombre:"",
+    nombre:"zulo",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/zulo.jfif?alt=media&token=a0d52de2-2aec-4374-b7fb-8fe4901cf5cb"
 }
 
 let producto44={
-    nombre:"",
+    nombre:"jaws",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/jaws.jfif?alt=media&token=0941aea5-69a5-4827-a49e-e30e9feed8e9"
 }
 
 let producto45={
-    nombre:"",
+    nombre:"breaking bad",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/breaking%20bad.jfif?alt=media&token=1a58c28a-4815-4e71-b009-39d630965690"
 }
 
 let producto46={
-    nombre:"",
+    nombre:"gigantes de acero",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/gigantes%20de%20acero.jfif?alt=media&token=1270b490-46d5-4abc-8606-ea29a3fcded4"
 }
 
 let producto47={
-    nombre:"",
+    nombre:"deadpool 1",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/deadpool.jfif?alt=media&token=84ed5eb9-4483-45ac-902d-fd2cb8aea2b9"
 }
 
 let producto48={
-    nombre:"",
+    nombre:"sonic",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/sonic.jfif?alt=media&token=f49e2ae9-6774-4237-90aa-e5c9e4fc8c18"
 }
 
 let producto49={
-    nombre:"",
+    nombre:"solo",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/solo.jfif?alt=media&token=0a0d1424-4bf5-41dc-9953-e01044a78ae1"
 }
 
 let producto50={
-    nombre:"",
+    nombre:"suits",
     precio:20000,
     estado:"Nuevo",
     pais:"colombia",
     popularidad:"⭐⭐⭐⭐⭐",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-9abd0.appspot.com/o/suits.jfif?alt=media&token=454e6408-e7fd-4a1d-b655-eb9a50778bd9"
 }
 
 
